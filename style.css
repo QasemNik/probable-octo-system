@@ -86,3 +86,9 @@ body {
     cursor: pointer;
 
 }
+.btn{
+    position: absolute;
+    right: 0;
+    left: 120;
+    top:0;
+}
